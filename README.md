@@ -15,5 +15,6 @@ cd features
 ```
 4. Execute behave
 ```console 
-behave
+behave ngo
+behave volunnter
 ```
