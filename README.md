@@ -5,6 +5,15 @@
 3. [Requests](http://docs.python-requests.org/en/master/)
 ## Steps
 1. Clone the project
-2. Install the libs (pip install -r requirements.txt)
+2. Install the libs 
+```console 
+pip install -r requirements.txt 
+```
 3. Access the features folder on terminal
+```console 
+cd features 
+```
 4. Execute behave
+```console 
+behave
+```
